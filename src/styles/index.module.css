@@ -1,0 +1,832 @@
+.home1 {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.28em;
+}
+.home {
+  	position: absolute;
+  	top: 64px;
+  	left: 214px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 97px;
+  	height: 35px;
+}
+.home3 {
+  	position: absolute;
+  	top: 0%;
+  	left: -1.8%;
+  	letter-spacing: 0.28em;
+}
+.home2 {
+  	position: absolute;
+  	top: 64px;
+  	left: 349px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 111px;
+  	height: 35px;
+}
+.home5 {
+  	position: absolute;
+  	top: 0%;
+  	left: 1.97%;
+  	letter-spacing: 0.28em;
+}
+.home4 {
+  	position: absolute;
+  	top: 64px;
+  	left: 704px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 152px;
+  	height: 35px;
+}
+.home7 {
+  	position: absolute;
+  	top: 0%;
+  	left: 2.4%;
+  	letter-spacing: 0.28em;
+}
+.home6 {
+  	position: absolute;
+  	top: 64px;
+  	left: 499px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 167px;
+  	height: 35px;
+}
+.desktop3 {
+  	align-self: stretch;
+  	position: relative;
+  	background-color: var(--color-gainsboro-100);
+  	height: 164px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	z-index: 0;
+}
+.nice1Icon {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 1378px;
+  	object-fit: cover;
+}
+.rentalsChild {
+  	position: absolute;
+  	width: 100%;
+  	top: -689px;
+  	right: 1074px;
+  	left: -1074px;
+  	height: 1378px;
+  	overflow: hidden;
+}
+.rentals {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	height: 1378px;
+  	overflow: hidden;
+}
+.rentalsWrapper {
+  	width: 1440px;
+  	position: relative;
+  	height: 1378px;
+  	z-index: 1;
+}
+.groupChild {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 132px;
+  	object-fit: cover;
+}
+.firstPageInner {
+  	width: 8.96%;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 16.48px;
+  	right: 87.71%;
+  	left: 3.33%;
+  	filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  	height: 132px;
+  	z-index: 2;
+}
+.welcomeToMalabar {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.28em;
+  	display: inline-block;
+}
+.welcomeToMalabarFamilyWrapper {
+  	width: 48.33%;
+  	position: absolute;
+  	margin: 0 !important;
+  	height: 7.99%;
+  	top: 52.08%;
+  	right: 25.84%;
+  	bottom: 39.93%;
+  	left: 25.83%;
+  	z-index: 3;
+  	font-size: 48px;
+  	color: var(--color-white);
+}
+.groupItem {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	right: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 304.2px;
+  	object-fit: cover;
+}
+.firstPageChild {
+  	width: 31.68%;
+  	position: absolute;
+  	margin: 0 !important;
+  	top: 424.48px;
+  	right: 34.15%;
+  	left: 34.17%;
+  	height: 304.2px;
+  	z-index: 4;
+}
+.firstPage {
+  	position: absolute;
+  	top: calc(50% - 2598.5px);
+  	left: calc(50% - 725px);
+  	border: 1px solid var(--color-black);
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 0px 5px;
+  	text-align: center;
+  	font-size: var(--font-size-8xl);
+  	color: var(--color-gray-100);
+}
+.getTo {
+  	position: absolute;
+  	top: 18px;
+  	left: 0px;
+  	letter-spacing: 0.22em;
+  	line-height: 131.04%;
+  	display: inline-block;
+  	width: 194.4px;
+  	height: 49px;
+}
+.knowUs {
+  	position: absolute;
+  	top: 66px;
+  	left: 61.61px;
+  	letter-spacing: 0.22em;
+  	line-height: 131.04%;
+  	display: inline-block;
+  	width: 194.4px;
+  	height: 49px;
+}
+.groupInner {
+  	position: absolute;
+  	top: -0.5px;
+  	left: 268.5px;
+  	border-right: 1px solid rgba(0, 0, 0, 0.32);
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 116px;
+}
+.getToParent {
+  	position: absolute;
+  	top: 91px;
+  	left: 177px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 269px;
+  	height: 115px;
+  	text-align: center;
+  	font-size: var(--font-size-5xl);
+  	font-family: var(--font-inknut-antiqua);
+}
+.malabarGroupIs {
+  	width: 583px;
+  	position: relative;
+  	letter-spacing: 0.23em;
+  	line-height: 62px;
+  	display: inline-block;
+  	flex-shrink: 0;
+}
+.malabarGroupIsATrustedProWrapper {
+  	position: absolute;
+  	top: 260px;
+  	left: 167px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10px 15px;
+}
+.frameDiv {
+  	position: absolute;
+  	top: 0px;
+  	left: 56.27px;
+  	background-color: var(--color-black);
+  	width: 396.7px;
+  	height: 297px;
+  	overflow: hidden;
+}
+.annieSprattTj8x4ocq5jeUnsplIcon {
+  	position: absolute;
+  	top: 52.29px;
+  	left: 0px;
+  	width: 397.2px;
+  	height: 303.7px;
+  	object-fit: cover;
+}
+.frameParent {
+  	position: absolute;
+  	top: 255px;
+  	left: 805px;
+  	width: 453px;
+  	height: 356px;
+}
+.ourGoalIs {
+  	position: absolute;
+  	top: 762px;
+  	left: 180px;
+  	letter-spacing: 0.23em;
+  	line-height: 69px;
+  	display: inline-block;
+  	width: 1074px;
+  	height: 159px;
+}
+.getToKnowUs {
+  	position: absolute;
+  	top: 1542px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 1440px;
+  	height: 1017px;
+  	overflow: hidden;
+}
+.weProvideA {
+  	position: absolute;
+  	top: 182px;
+  	left: 183px;
+  	letter-spacing: 0.33em;
+  	line-height: 497%;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	width: 1078px;
+  	height: 276px;
+}
+.whatWeHave1 {
+  	position: absolute;
+  	top: 67px;
+  	left: 497px;
+  	font-size: var(--font-size-13xl);
+  	letter-spacing: 0.22em;
+  	line-height: 131.04%;
+  	display: inline-block;
+  	font-family: var(--font-inknut-antiqua);
+  	white-space: pre-wrap;
+  	text-align: center;
+  	width: 443px;
+  	height: 49px;
+  	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.whatWeHave {
+  	position: absolute;
+  	top: 2559px;
+  	left: 0px;
+  	background-color: rgba(130, 127, 127, 0.11);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 1440px;
+  	height: 543px;
+  	overflow: hidden;
+}
+.icons8Rent641 {
+  	position: absolute;
+  	top: 5px;
+  	left: 0px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.weOfferReliable {
+  	position: absolute;
+  	top: 0px;
+  	left: 77px;
+  	letter-spacing: 0.2em;
+  	line-height: 288%;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	width: 279px;
+  	height: 89px;
+}
+.rectangleDiv {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: var(--br-xl);
+  	background-color: var(--color-gainsboro-200);
+  	width: 146px;
+  	height: 35px;
+}
+.rectangleWrapper {
+  	position: absolute;
+  	top: 103px;
+  	left: 94px;
+  	width: 146px;
+  	height: 35px;
+}
+.visitUs2 {
+  	position: absolute;
+  	top: 0%;
+  	left: 0%;
+  	letter-spacing: 0.2em;
+  	line-height: 288%;
+  	text-transform: uppercase;
+}
+.visitUs1 {
+  	position: absolute;
+  	top: 103px;
+  	left: 130px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 69px;
+  	height: 35px;
+  	font-size: var(--font-size-xs);
+}
+.icons8Rent641Parent {
+  	position: absolute;
+  	top: 35px;
+  	left: 15px;
+  	width: 356px;
+  	height: 138px;
+}
+.visitUsInner {
+  	position: absolute;
+  	top: 124px;
+  	left: 226px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: var(--color-white);
+  	width: 385px;
+  	height: 207px;
+  	overflow: hidden;
+}
+.rectangleContainer {
+  	position: absolute;
+  	top: 106px;
+  	left: 100px;
+  	width: 146px;
+  	height: 35px;
+}
+.image5Icon {
+  	position: absolute;
+  	top: 7px;
+  	left: 0px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.weOfferExpert {
+  	position: absolute;
+  	top: 0px;
+  	left: 80px;
+  	letter-spacing: 0.2em;
+  	line-height: 288%;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	width: 279px;
+  	height: 89px;
+}
+.visitUs3 {
+  	position: absolute;
+  	top: 106px;
+  	left: 139px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 69px;
+  	height: 35px;
+  	font-size: var(--font-size-xs);
+}
+.groupContainer {
+  	position: absolute;
+  	top: 33px;
+  	left: 9px;
+  	width: 359px;
+  	height: 141px;
+}
+.visitUsChild {
+  	position: absolute;
+  	top: 442px;
+  	left: 226px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: var(--color-white);
+  	width: 385px;
+  	height: 207px;
+  	overflow: hidden;
+}
+.icons8Fence1001 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 70px;
+  	height: 70px;
+  	object-fit: cover;
+}
+.rectangleFrame {
+  	position: absolute;
+  	top: 123px;
+  	left: 113px;
+  	width: 146px;
+  	height: 35px;
+}
+.visitUs5 {
+  	position: absolute;
+  	top: 123px;
+  	left: 151px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 69px;
+  	height: 35px;
+  	font-size: var(--font-size-xs);
+}
+.weOfferReliableAndAffordabParent {
+  	position: absolute;
+  	top: 28px;
+  	left: 7px;
+  	width: 356px;
+  	height: 158px;
+}
+.visitUsInner1 {
+  	position: absolute;
+  	top: 442px;
+  	left: 843px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: var(--color-white);
+  	width: 385px;
+  	height: 207px;
+  	overflow: hidden;
+}
+.rectangleWrapper1 {
+  	position: absolute;
+  	top: 98px;
+  	left: 103px;
+  	width: 146px;
+  	height: 35px;
+}
+.icons8CarWash641 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.visitUs7 {
+  	position: absolute;
+  	top: 98px;
+  	left: 141px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	width: 69px;
+  	height: 35px;
+}
+.groupDiv {
+  	position: absolute;
+  	top: 40px;
+  	left: 17px;
+  	width: 249px;
+  	height: 133px;
+}
+.weProvideProfessional {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	letter-spacing: 0.11em;
+  	line-height: 288%;
+  	text-transform: uppercase;
+  	display: inline-block;
+  	width: 281px;
+}
+.weProvideProfessionalCarDeWrapper {
+  	position: absolute;
+  	top: 28px;
+  	left: 94px;
+  	width: 281px;
+  	height: 87px;
+  	font-size: var(--font-size-3xs);
+}
+.groupParent1 {
+  	position: absolute;
+  	top: 124px;
+  	left: 843px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	background-color: var(--color-white);
+  	width: 385px;
+  	height: 207px;
+  	overflow: hidden;
+  	font-size: var(--font-size-xs);
+}
+.visitUs {
+  	position: absolute;
+  	top: 3102px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 1440px;
+  	height: 740px;
+  	overflow: hidden;
+  	font-size: var(--font-size-3xs);
+}
+.contactUs1 {
+  	position: absolute;
+  	top: 63px;
+  	left: 568px;
+  	font-size: 40px;
+  	letter-spacing: 0.22em;
+  	display: inline-block;
+  	color: var(--color-black);
+  	width: 344px;
+  	height: 44px;
+}
+.getInTouch {
+  	position: absolute;
+  	top: 138px;
+  	left: 388px;
+  	font-size: var(--font-size-5xl);
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+  	color: rgba(0, 0, 0, 0.51);
+  	display: inline-block;
+  	width: 720px;
+  	height: 41px;
+}
+.contactUsChild {
+  	position: absolute;
+  	top: 419px;
+  	left: 488px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 520px;
+  	height: 45px;
+}
+.contactUsItem {
+  	position: absolute;
+  	top: 494px;
+  	left: 488px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 520px;
+  	height: 45px;
+}
+.yourName {
+  	position: absolute;
+  	top: 433px;
+  	left: 504px;
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+}
+.submit {
+  	position: absolute;
+  	top: 1085px;
+  	left: 476px;
+  	font-size: var(--font-size-13xl);
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+  	color: var(--color-white);
+}
+.contactUsInner {
+  	position: absolute;
+  	top: 221px;
+  	left: 251px;
+  	width: 949px;
+  	height: 3px;
+  	object-fit: contain;
+}
+.sliderControlChild {
+  	position: absolute;
+  	top: 5px;
+  	left: 5px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 50%;
+  	background-color: #eaeaea;
+  	width: 65px;
+  	height: 65px;
+}
+.sliderControlItem {
+  	position: absolute;
+  	top: 31px;
+  	left: 22px;
+  	width: 25px;
+  	height: 14px;
+}
+.slideToSubmit {
+  	position: absolute;
+  	top: 24px;
+  	left: 75px;
+  	letter-spacing: 0.22em;
+}
+.release {
+  	position: absolute;
+  	top: 24px;
+  	left: -104px;
+  	letter-spacing: 0.22em;
+  	display: inline-block;
+  	width: 104px;
+  	opacity: 0;
+}
+.confirmed {
+  	position: absolute;
+  	top: 268px;
+  	left: 65px;
+  	letter-spacing: 0.22em;
+  	color: var(--color-white);
+  	display: inline-block;
+  	width: 152px;
+}
+.sliderControl {
+  	width: 75px;
+  	position: relative;
+  	height: 75px;
+}
+.sliderControlWrapper {
+  	position: absolute;
+  	top: 920px;
+  	left: 598px;
+  	box-shadow: -2px 4px 6.7px rgba(0, 0, 0, 0.25);
+  	border-radius: 40px;
+  	background-color: var(--color-gray-100);
+  	width: 299px;
+  	height: 80px;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 2px;
+  	box-sizing: border-box;
+  	font-size: var(--font-size-xl);
+  	color: var(--color-black);
+  	font-family: var(--font-inika);
+}
+.contactUsChild1 {
+  	position: absolute;
+  	top: 569px;
+  	left: 488px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 520px;
+  	height: 45px;
+}
+.contactUsChild2 {
+  	position: absolute;
+  	top: 644px;
+  	left: 488px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 520px;
+  	height: 204px;
+}
+.yourEmail {
+  	position: absolute;
+  	top: 508px;
+  	left: 504px;
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+}
+.yourNumber {
+  	position: absolute;
+  	top: 583px;
+  	left: 504px;
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+}
+.yourMessage {
+  	position: absolute;
+  	top: 657px;
+  	left: 504px;
+  	letter-spacing: 0.22em;
+  	font-weight: 500;
+  	display: inline-block;
+  	width: 147px;
+  	height: 18px;
+}
+.icons8Instagram501 {
+  	position: absolute;
+  	top: 290px;
+  	left: 544px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.icons8Whatsapp501 {
+  	position: absolute;
+  	top: 290px;
+  	left: 662px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.icons8Facebook501 {
+  	position: absolute;
+  	top: 290px;
+  	left: 780px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.icons8Gmail641 {
+  	position: absolute;
+  	top: 290px;
+  	left: 898px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.contactUs {
+  	position: absolute;
+  	top: 3842px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	border: 1px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 1440px;
+  	height: 1191px;
+  	overflow: hidden;
+  	font-size: var(--font-size-mini);
+  	color: var(--color-gray-100);
+  	font-family: var(--font-instrument-sans);
+}
+.footerChild {
+  	position: absolute;
+  	height: 100%;
+  	width: 100%;
+  	top: 0%;
+  	right: 0%;
+  	bottom: 0%;
+  	left: 0%;
+  	background-color: var(--color-gainsboro-100);
+}
+.malabarResidenceAll {
+  	position: absolute;
+  	width: 34.84%;
+  	top: 51.83%;
+  	left: 34.63%;
+  	letter-spacing: 0.22em;
+  	display: inline-block;
+}
+.footer {
+  	position: absolute;
+  	top: 5024px;
+  	left: -9px;
+  	border: 9px solid var(--color-black);
+  	box-sizing: border-box;
+  	width: 1458px;
+  	height: 182px;
+  	font-size: 16px;
+  	font-family: var(--font-inria-serif);
+}
+.desktop2 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: var(--color-white);
+  	width: 1440px;
+  	height: 5197px;
+  	overflow: hidden;
+}
+.desktop2Wrapper {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 5197px;
+}
+.groupParent {
+  	width: 100%;
+  	position: relative;
+  	height: 5197px;
+  	text-align: justify;
+  	font-size: var(--font-size-sm);
+  	color: var(--color-black);
+  	font-family: var(--font-inika);
+}
+
